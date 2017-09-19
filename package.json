@@ -1,0 +1,33 @@
+{
+  "name": "copydirectory",
+  "version": "1.0.0",
+  "description": "This project will copy all the files and folder and files insode the folder into the new location specified",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usman154/copyDirectory.git"
+  },
+  "keywords": [
+    "copy",
+    "files",
+    "copy",
+    "directory",
+    "copy",
+    "folder",
+    "copy",
+    "node",
+    "folder'"
+  ],
+  "author": "Usman Rana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/usman154/copyDirectory/issues"
+  },
+  "homepage": "https://github.com/usman154/copyDirectory#readme",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
